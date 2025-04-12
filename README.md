@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hey there 👋
+I'm a Junior Java Developer passionate about building scalable applications. I’m focused on learning and improving my skills in Java, Spring Boot, and related technologies.
+### Statistics
+![fedykvitalik2004's Stats](https://github-readme-stats.vercel.app/api?username=fedykvitalik2004&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **fedykvitalik2004/fedykvitalik2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
